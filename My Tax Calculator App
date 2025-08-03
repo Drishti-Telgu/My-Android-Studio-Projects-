@@ -1,0 +1,13 @@
+This project was built as part of my Android development coursework to demonstrate the implementation of basic input handling, conditional logic, and real-time result display in a mobile app.
+
+The app allows users to:
+	•	Input their income
+	•	Calculate tax based on predefined slabs
+	•	View tax output instantly with a clean UI using Jetpack Compose
+
+Tools Used: Android Studio, Kotlin, Jetpack Compose
+
+Assets Included:
+	•	Code file in PDF format
+	•	Assignment explanation document (Word/PDF)
+	•	A demo video showcasing the app functionality
