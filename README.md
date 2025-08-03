@@ -1,2 +1,4 @@
 # My-Android-Studio-Projects-
-This is a mobile application developed using Android Studio as part of my coursework in Australia. It includes features like activity navigation, button-based interactions, and user input handling using Java and XML. The app was designed with a focus on UI/UX and Android development fundamentals. Screenshots and outputs are included for reference.
+This repository contains a collection of Android app development projects built using Android Studio and Jetpack Compose, created as part of my coursework and self-learning during my time studying in Australia.
+
+Each project reflects hands-on experience with UI design, Composables, layouts, and applying core Kotlin programming concepts. These mini-apps helped me understand how to build real-world interfaces, use images and texts effectively, and structure an Android app using modern tools and best practices.
