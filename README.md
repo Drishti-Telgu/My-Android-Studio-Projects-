@@ -1,4 +1,13 @@
-# My-Android-Studio-Projects-
-This repository contains a collection of Android app development projects built using Android Studio and Jetpack Compose, created as part of my coursework and self-learning during my time studying in Australia.
+# 📱 Android Studio Projects
+This repository contains a collection of simple Android apps built using Android Studio and Jetpack Compose.
+# Projects include:
+- Hello World App  
+- Student Info Layout  
+- Background Color & Text Styling  
+- Multi-Layout Screen  
+- Greeting Card  
+- Dice Roller  
+- Tax Calculator
+# These apps helped me practice Kotlin basics, UI design, and real-world app building using modern tools.
 
-Each project reflects hands-on experience with UI design, Composables, layouts, and applying core Kotlin programming concepts. These mini-apps helped me understand how to build real-world interfaces, use images and texts effectively, and structure an Android app using modern tools and best practices.
+Built with ❤️ using Kotlin + Jetpack Compose.
